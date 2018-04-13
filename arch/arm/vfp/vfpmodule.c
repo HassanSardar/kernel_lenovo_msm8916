@@ -33,6 +33,8 @@
 #include "vfpinstr.h"
 #include "vfp.h"
 
+#define FPE_FIXME	0
+
 /*
  * Our undef handlers (in entry.S)
  */
